@@ -6,3 +6,5 @@ Voltage:</br>
 square wave, </br>
 period=6s, </br>
 duty cycle= 50%</br>
+link to Jupyter notebook: </br>
+http://nbviewer.jupyter.org/github/yungkuo/lipid-bilayer-analysis/blob/master/Nanion%20analysis.ipynb
